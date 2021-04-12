@@ -27,7 +27,7 @@ class ClassLoader
     public function load($class)
     {
         $class = str_replace("\\", "/", $class);
-        require_once( "/" . $class . ".php");
+        require_once($class . ".php");
     }
 
     private function __sleep()

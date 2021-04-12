@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<title>Export XML</title>
+<products>
+  <product>
+    <name>product1</name>
+    <cost>1</cost>
+    <price>100</price>
+  </product>
+  <product>
+    <name>product2</name>
+    <cost>2</cost>
+    <price>200</price>
+  </product>
+  <product>
+    <name>product3</name>
+    <cost>3</cost>
+    <price>300</price>
+  </product>
+</products>

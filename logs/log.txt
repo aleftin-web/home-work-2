@@ -1,0 +1,6 @@
+
+2021-04-13 00:31:08 [ERROR] "csvExport прошел успешно" in data_export.csv line -;
+2021-04-13 00:32:34 [INFO] "csvExport прошел успешно" in data_export.csv line -;
+2021-04-13 00:36:06 [INFO] "xmlExport прошел успешно" in data_export.xml line -;
+2021-04-13 00:36:08 [INFO] "csvExport прошел успешно" in data_export.csv line -;
+2021-04-13 00:36:10 [INFO] "jsonExport прошел успешно" in data_export.json line -;
